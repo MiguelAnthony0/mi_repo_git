@@ -18,3 +18,9 @@
 [Link Hardware1.md](hardware/hardware1.md)
 [Link Hardware2.md](hardware/hardware2.md)
 
+
+# CARLOS GONZALEZ LEDO
+
+[HARDWARE1](hardware/hardware1_CG.md)
+[HARDWARE2](hardware/hardware2_CG.md)
+
